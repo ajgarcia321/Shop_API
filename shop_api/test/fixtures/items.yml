@@ -3,13 +3,13 @@
 one:
   name: MyString
   image: MyString
-  price: MyString
-  stock: MyString
+  price: 
+  stock: 
   description: MyString
 
 two:
   name: MyString
   image: MyString
-  price: MyString
-  stock: MyString
+  price: 
+  stock: 
   description: MyString
