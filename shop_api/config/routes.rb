@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :items
+  resources :shopitems
   resources :users do
         collection do 
           post '/login',
